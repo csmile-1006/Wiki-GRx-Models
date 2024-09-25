@@ -889,7 +889,7 @@
   </link>
   <joint
     name="waist_roll"
-    type="">
+    type="revolute">
     <origin
       xyz="0.00525 -0.0005 0.081"
       rpy="0 0 0" />
